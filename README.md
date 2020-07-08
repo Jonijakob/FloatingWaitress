@@ -2,7 +2,7 @@
 
 ## an Autonomous board for the dead sea which goes from the beach to the client, serves, and returns to shore
 
-![`enter image description here`](https://jonijakob.s3.amazonaws.com/boat/IMG-20180507-WA0013.jpg = 100x100)
+![`enter image description here`](https://jonijakob.s3.amazonaws.com/boat/IMG-20180507-WA0013.jpg)
 
 
 
@@ -10,7 +10,7 @@
 
 ### My team's role was to develop electronics to connect controllers and sensors of the boat and program it
 
-![`enter image description here`](https://jonijakob.s3.amazonaws.com/boat/IMG-20180711-WA0045.jpg)
+![`enter image description here`|512x397, 20%](https://jonijakob.s3.amazonaws.com/boat/IMG-20180711-WA0045.jpg)
 
 
 
